@@ -1,0 +1,7 @@
+.env
+app.py
+inicio_sesion_linkedin.py
+/src
+/__pycache__
+scrape_info_linkedin.py
+venv
